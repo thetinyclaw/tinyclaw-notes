@@ -16,6 +16,9 @@
 !memory/
 !memory/**
 
+# Track plot batch processor
+!plot-batch-processor.sh
+
 # Specifically ignore secrets and credentials even if they match patterns
 .secrets
 .credentials/
