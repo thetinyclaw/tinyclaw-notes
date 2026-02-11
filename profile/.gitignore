@@ -1,0 +1,13 @@
+# Never commit secrets or machine-specific config
+TOOLS.md
+.credentials/
+.clawhub/
+.env
+*.key
+*.pem
+
+# OpenClaw runtime state
+memory/
+
+# OS/editor
+.DS_Store
