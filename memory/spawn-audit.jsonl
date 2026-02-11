@@ -1,0 +1,16 @@
+{"ts":"2026-02-11T09:09:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:11:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:15:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:16:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:20:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:21:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:23:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:24:00-06:00","sessionKey":"agent:main:main","model":"google/gemini-flash-latest","totalTokens":51000,"context":"51k/256k"}
+{"ts":"2026-02-11T09:25:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:26:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:28:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:30:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:31:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:33:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:34:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-11T09:35:00-06:00","sessionKey":"spawn-audit:poll","model":"kimi-k2.5","totalTokens":0,"context":"No sub-agent sessions found"}

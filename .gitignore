@@ -1,0 +1,39 @@
+# Ignore everything by default
+/*
+
+# But track these "brain" files
+!SOUL.md
+!IDENTITY.md
+!USER.md
+!MEMORY.md
+!AGENTS.md
+!HEARTBEAT.md
+!SPAWN_OPUS_TEMPLATE.md
+!TOOLS.md
+!.gitignore
+
+# Track memory folder contents
+!memory/
+!memory/**
+
+# Specifically ignore secrets and credentials even if they match patterns
+.secrets
+.credentials/
+.env*
+node_modules/
+.next/
+dist/
+build/
+*.db
+/BrainBytes/
+/flight-tracker/
+/Torch/
+/projects/
+/research/
+/_tmp_*/
+/tinyclaw-profile/
+/.git_brainbytes_backup/
+/profile/
+/workspace/
+/data/
+/skills/
