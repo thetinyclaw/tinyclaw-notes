@@ -13,7 +13,7 @@ Purpose: Run a disposable Opus sub-agent for heavy reasoning/coding, with strict
    - Tool: `sessions_spawn`
    - Model: `opus` (anthropic/claude-opus-4-5)
    - cleanup: `delete`
-   - Hard timeout: set `runTimeoutSeconds` (default 600s unless overridden by Alec)
+   - Hard timeout: set `runTimeoutSeconds` (default **360s (6 min)** unless overridden by Alec)
 
 3) **Least privilege behavior**:
    - No proactive external actions (messaging, browser, cron, config changes).
@@ -26,7 +26,7 @@ Purpose: Run a disposable Opus sub-agent for heavy reasoning/coding, with strict
 
 5) **Audit trail required**:
    - Log spawn request + session id + model + timeout.
-   - Capture token usage snapshots (see `memory/spawn-audit.jsonl`).
+   - Capture token usage snapshots **every 60s** (see `memory/spawn-audit.jsonl`).
 
 ## Canonical Spawn Message Template
 
