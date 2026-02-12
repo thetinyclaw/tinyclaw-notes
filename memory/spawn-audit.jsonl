@@ -1,99 +1,117 @@
-{"ts":"2026-02-11T19:23:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T19:26:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T19:28:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-12T01:33:08+0000","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T19:33:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T19:34:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T19:36:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T19:37:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-12T01:39:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T01:42:06.3NZ","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T01:42:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"no sub-agents found"}
-{"ts":"2026-02-11T19:43:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T23:37:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-11T23:39:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T23:40:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"no active sub-agents"}
-{"ts":"2026-02-11T23:41:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T23:42:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T23:46:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-11T23:47:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-11T23:50:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-11T23:57:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-11T23:58:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T00:01:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T00:05:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:07:00.000Z","sessionKey":"none","model":"none","totalTokens":0,"context":"no active sub-agents"}
-{"ts":"2026-02-12T06:11:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:13:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:15:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:19:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agent sessions found"}
-{"ts":"2026-02-12T00:21:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T00:23:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-12T06:24:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
-{"ts":"2026-02-12T06:25:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:31:00.000Z","sessionKey":"none","model":"none","totalTokens":0,"context":"no sub-agents found"}
-{"ts":"2026-02-12T06:34:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:36:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:39:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:40:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:41:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:44:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agents found"}
-{"ts":"2026-02-12T06:49:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:51:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:52:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:53:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T06:54:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T00:56:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found"}
-{"ts":"2026-02-12T01:01:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T01:02:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:04:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:08:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:09:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:16:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:17:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:19:00Z","sessionKey":"none","model":"none","totalTokens":0,"context":"no subagents found"}
-{"ts":"2026-02-12T07:26:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
-{"ts":"2026-02-12T07:27:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
-{"ts":"2026-02-12T07:30:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
-{"ts":"2026-02-12T07:31:00Z","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agent sessions found"}
-{"ts":"2026-02-12T07:32:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found"}
-{"ts":"2026-02-12T07:33:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found"}
-{"ts":"2026-02-12T01:35:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
-{"ts":"2026-02-12T01:37:00.000Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
-{"ts":"2026-02-12T07:40:03.3NZ","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:41:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:42:00Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"spawn-audit-poll"}
-{"ts":"2026-02-12T07:43:00Z","sessionKey":"none","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:44:00Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"no-subagents-found"}
-{"ts":"2026-02-12T07:45:00Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:46:00Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:49:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:50:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:51:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T01:52:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-12T07:55:00Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron-audit"}
-{"ts":"2026-02-12T01:57:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:58:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T07:59:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"no sub-agents found"}
-{"ts":"2026-02-12T08:01:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:02:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:04:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:05:00Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-12T08:06:00Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:08:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:09:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:13:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:14:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:16:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T08:17:00Z","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:19:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agent sessions found"}
-{"ts":"2026-02-12T08:20:00+0000","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agents found"}
-{"ts":"2026-02-12T02:21:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:23:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:24:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:25:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:26:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:27:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:29:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:31:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
-{"ts":"2026-02-12T02:32:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T05:18:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}{"ts":"2026-02-12T05:20:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T05:23:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:24:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:26:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T05:28:00-06:00","sessionKey":"audit:complete","model":"none","totalTokens":0,"context":"No active sub-agents found"}
+{"ts":"2026-02-12T05:29:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"spawn-audit-poll"}
+{"ts":"2026-02-12T05:31:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:33:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:34:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:35:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:36:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:42:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:43:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T05:46:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T11:49:00.000Z","sessionKey":"cron:spawn-audit","model":"gemini-3-pro-preview","totalTokens":0,"context":"no sub-agents found"}
+{"ts":"2026-02-12T05:53:00.000Z","audit":"no sub-agents active in last 30min"}
+{"ts":"2026-02-12T05:54:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T05:55:00.000Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":256000,"context":"spawn-audit:poll - no sub-agents found"}
+{"ts":"2026-02-12T11:57:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T12:02:00.000Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"no-subagents-found"}
+{"ts":"2026-02-12T12:03:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T12:04:00.000Z","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T12:05:00.000Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"spawn-audit:poll - no sub-agents found"}
+{"ts":"2026-02-12T06:06:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:08:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:11:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:12:00.000Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"256000"}
+{"ts":"2026-02-12T06:15:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T12:17:00.000Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron audit"}
+{"ts":"2026-02-12T12:18:00.000Z","sessionKey":"audit-run","model":"none","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T06:19:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:21:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:23:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:24:00-06:00","sessionKey":"audit-complete","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T06:25:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T06:26:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"no sub-agents found"}
+{"ts":"2026-02-12T06:27:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"256000"}
+{"ts":"2026-02-12T06:27:00-06:00","sessionKey":"agent:main:main","model":"gemini-3-pro-preview","totalTokens":13251,"context":"256000"}
+{"ts":"2026-02-12T06:29:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:32:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:34:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:35:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T12:38:02Z","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron"}
+{"ts":"2026-02-12T12:38:02Z","sessionKey":"agent:main:main","model":"gemini-3-pro-preview","totalTokens":13251,"context":"main"}
+{"ts":"2026-02-12T06:43:00-06:00","sessionKey":"audit","model":"spawn-audit","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:44:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:45:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T06:46:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"google/gemini-3-pro-preview","totalTokens":0,"context":"0/256k (0%)"}
+{"ts":"2026-02-12T06:46:00-06:00","sessionKey":"agent:main:main","model":"google/gemini-3-pro-preview","totalTokens":13348,"context":"13k/256k (5%)"}
+{"ts":"2026-02-12T06:50:00-06:00","sessionKey":"spawn-audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"no sub-agents found"}
+{"ts":"2026-02-12T06:56:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T06:57:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T07:00:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron-spawn-audit"}
+{"ts":"2026-02-12T07:00:00-06:00","sessionKey":"agent:main:main","model":"gemini-3-pro-preview","totalTokens":13348,"context":"main-session"}
+{"ts":"2026-02-12T07:01:00-06:00","sessionKey":"spawn-audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T07:04:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No active sub-agents found"}
+{"ts":"2026-02-12T07:05:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:14:38-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T07:15:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T07:16:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T07:17:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:18:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:21:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:22:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:24:00-06:00","sessionKey":"audit:no-subagents-found","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:25:00-06:00","sessionKey":"audit:no-subagents-found","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:31:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:36:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:37:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:39:00-06:00","sessionKey":"audit-check","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T07:40:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:42:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:44:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-12T07:45:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T07:47:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T07:48:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T07:51:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:52:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T07:55:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T07:58:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T08:00:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T08:02:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agent sessions found"}
+{"ts":"2026-02-12T08:07:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:08:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:09:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:14:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:16:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T08:18:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:21:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:22:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:23:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"audit-poller"}
+{"ts":"2026-02-12T14:26:00+0000","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T08:27:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:30:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:33:00-06:00","sessionKey":"none","model":"none","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T08:34:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:35:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:37:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:38:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:39:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found"}
+{"ts":"2026-02-12T08:42:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"256000"}
+{"ts":"2026-02-12T08:49:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:52:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron audit task"}
+{"ts":"2026-02-12T08:55:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T08:57:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T08:59:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T09:00:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron-session"}
+{"ts":"2026-02-12T09:02:00-06:00","sessionKey":"agent:main:cron:d7adf30b-0b34-4bd3-9dbf-aa0042682728","model":"gemini-3-pro-preview","totalTokens":0,"context":"cron-session"}
+{"ts":"2026-02-12T09:02:00-06:00","sessionKey":"agent:main:main","model":"gemini-3-pro-preview","totalTokens":14487,"context":"main-session"}
+{"ts":"2026-02-12T09:04:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T09:06:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T09:08:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T09:10:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T09:14:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No active sub-agent sessions found in last 30 minutes"}
+{"ts":"2026-02-12T09:16:00-06:00","sessionKey":"audit:poll","model":"gemini-3-pro-preview","totalTokens":0,"context":"No sub-agents found"}
+{"ts":"2026-02-12T09:18:00-06:00","sessionKey":"audit:poll","model":"none","totalTokens":0,"context":"No sub-agents found in last 30min"}
+{"ts":"2026-02-12T09:20:00-06:00","sessionKey":"audit-complete","model":"none","totalTokens":0,"context":"No subagents found in last 30min"}
