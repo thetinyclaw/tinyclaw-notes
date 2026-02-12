@@ -40,6 +40,24 @@ This file tracks active projects, key decisions, and persistent knowledge about 
   2. Plotting/Canvas Tool - requires **OpenClaw Node pairing** on host.
 - **Key Task:** Alec needs to run `openclaw node pair` and/or install `clawhub` on the Linux server.
 
+### 📈 Plot Organizer Integration
+*Integrate plot generator (private repo) with plot organizer to create final PDFs.*
+- **Status:** Wrapper script built & debugging config discovery.
+- **Approach:** Build a wrapper shell script that orchestrates the workflow:
+  1. Unpacks ZIP file (tries unzip → 7z → python)
+  2. Auto-discovers test date from folder structure
+  3. Finds signal injection config in date directory
+  4. Finds impedance-yield config in nested impedance-yield-* folder
+  5. Runs signal_injection.py, impedance_yield.py, and process_data.py in sequence
+  6. Names final PDF after part ID (ZIP filename)
+- **Key Constraint:** Private plot generator repo — no direct access, only CLI commands.
+- **Recent Fixes:**
+  - 2026-02-11 12:40: Fixed date discovery to find numeric-only dirs (not impedance-yield folders)
+  - 2026-02-11 12:40: Fixed signal config search to exclude impedance files
+  - 2026-02-11 12:40: Fixed impedance config to search nested folder structure
+  - 2026-02-11 13:20: Made impedance analysis optional (skips if config missing, continues with signal + PDF)
+- **Location:** Wrapper = `plot-batch-processor.sh`; organizer = `/mnt/c/Users/Amehra/github/plot-organizer`
+
 ### 🔥 Torch (Hardware)
 *Handheld sensor/haptic device.*
 - **Status:** Prototyping/Integration.
@@ -59,6 +77,8 @@ This file tracks active projects, key decisions, and persistent knowledge about 
 - **Style:** Casual, direct, loves "trippy/fractal" visuals.
 - **Interests:** Electronics, Embedded Systems, Packaging Design.
 - **Main Local Machine:** Windows system (Silver Dragon / SD)
+- **Mac mini:** M4 Mac mini (16GB) used for local models + Whisper experiments.
+- **Voice chat (local):** Skill `skills/voice-chat-loop/` provides a macOS mic → chunked recording (ffmpeg/avfoundation) → Whisper transcription loop; uses **1s overlap** between chunks to reduce split-word errors.
 - **Important Instruction:** When asked to save files to workspace, always save a pointer to hard memory (MEMORY.md or memory/*.md files) for recall after restarts.
 
 ## 📦 "The Hat" (Hardware Allocation)
@@ -80,13 +100,14 @@ This file tracks active projects, key decisions, and persistent knowledge about 
 | **Flight Tracker** | Server/Cloud | Running on OpenClaw |
 
 ---
-*Updated: 2026-02-11 10:07 CST*
+*Updated: 2026-02-11 14:57 CST (heartbeat context dump)*
 
-## 🚨 Session Note (10:07 CST)
-**Context hit 100%.** Performed emergency project state dump per HEARTBEAT.md.
-- Flight Tracker: API optimizations deployed & pushed
-- Repository split: Brain files → tinyclaw-notes, secrets secured
-- All project states documented
+## 📦 Session Note (14:45-14:57 CST)
+**Context hit 100% again.** Performed project state dump:
+- **Plot Organizer:** Cloned repo → `plot-organizer/`. Consolidated `plot-batch-processor.sh` from workspace root + skills folder into GitHub repo only. Updated with improved error handling (removed `set -e`, now continues batch processing on partial failures). Pushed to GitHub.
+- **Torch:** PROJECT.md current (last updated 09:37 CST).
+- **Flight Tracker:** README.md current (enhanced data recording, fixed timeouts).
+- All active projects documented and synced.
 
 ## 🔄 Recent Activity (Feb 11)
 
