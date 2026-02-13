@@ -40,6 +40,17 @@ This file tracks active projects, key decisions, and persistent knowledge about 
   2. Plotting/Canvas Tool - requires **OpenClaw Node pairing** on host.
 - **Key Task:** Alec needs to run `openclaw node pair` and/or install `clawhub` on the Linux server.
 
+### 🤖 Ollama gemma3:12b (Local LLM)
+*Local AI model running on M4 Mac mini via Ollama.*
+- **Status:** Model loads successfully, CLI interactive mode has terminal issues.
+- **Issue:** `ollama run gemma3:12b` hangs due to MLX/terminal control conflicts.
+- **Solution:** Created wrapper scripts using API (works perfectly).
+- **Scripts:** 
+  - `ollama-chat.sh` - Basic interactive chat
+  - `ollama-chat-advanced.sh` - Full-featured with save/load, model switching
+- **Usage:** `./ollama-chat-advanced.sh -m gemma3:12b -t 0.7`
+- **Location:** Workspace root directory
+
 ### 📈 Plot Organizer Integration
 *Integrate plot generator (private repo) with plot organizer to create final PDFs.*
 - **Status:** Wrapper script built & debugging config discovery.

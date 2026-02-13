@@ -1,8 +1,5 @@
-
+2026-02-13T03:00:00-06:00
 ---
-Date: 2026-02-12T03:00:00-06:00
-Command: openclaw security audit --deep
-
 OpenClaw security audit
 Summary: 3 critical · 3 warn · 2 info
 
@@ -44,12 +41,6 @@ browser control: enabled
 gateway.tailscale_serve Tailscale Serve exposure enabled
   gateway.tailscale.mode="serve" exposes the Gateway to your tailnet (loopback behind Tailscale).
 
-Command: openclaw update status
-
-┌──────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ Item     │ Value                                                                                                    │
-├──────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ Install  │ pnpm                                                                                                     │
-│ Channel  │ stable (default)                                                                                         │
-│ Update   │ pnpm · npm latest 2026.2.9                                                                               │
-└──────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+---
+OpenClaw update status
+Update available (npm 2026.2.12).
