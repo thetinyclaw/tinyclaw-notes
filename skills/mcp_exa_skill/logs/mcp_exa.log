@@ -1,0 +1,133 @@
+[2026-02-14T19:01:27.919Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] Starting MCP-EXA run | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"runId":"run_1771095687919_399"}
+[2026-02-14T19:01:27.920Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:01:27.920Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] Run started | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"timeoutMs":60000}
+[2026-02-14T19:01:27.920Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] Spawning MCP wrapper (real tool integration mock)
+[2026-02-14T19:01:28.424Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] Run completed successfully
+[2026-02-14T19:01:28.424Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] TIMER_END: run_mcp_exa (504ms) | {"status":"ok"}
+[2026-02-14T19:01:28.425Z] [MCP-EXA][RUN:run_1771095687919_399] [INFO] MCP-EXA run completed | {"runId":"run_1771095687919_399","status":"ok"}
+[2026-02-14T19:06:43.061Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] Starting MCP-EXA run | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"runId":"run_1771096003061_642"}
+[2026-02-14T19:06:43.062Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:06:43.062Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] Run started | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"timeoutMs":60000}
+[2026-02-14T19:06:43.062Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] Spawning MCP wrapper (real tool integration)
+[2026-02-14T19:06:43.296Z] [MCP-EXA][RUN:run_1771096003061_642] [WARN] Real MCP call failed, falling back to mock | {"error":"Error: MCP HTTP error 406: {\"jsonrpc\":\"2.0\",\"error\":{\"code\":-32000,\"message\":\"Not Acceptable: Client must accept both application/json and text/event-stream\"},\"id\":null}"}
+[2026-02-14T19:06:43.398Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] Run completed successfully
+[2026-02-14T19:06:43.399Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] TIMER_END: run_mcp_exa (337ms) | {"status":"ok"}
+[2026-02-14T19:06:43.399Z] [MCP-EXA][RUN:run_1771096003061_642] [INFO] MCP-EXA run completed | {"runId":"run_1771096003061_642","status":"ok"}
+[2026-02-14T19:10:10.300Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] Starting MCP-EXA run | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"runId":"run_1771096210300_543"}
+[2026-02-14T19:10:10.301Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:10:10.301Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] Run started | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"timeoutMs":60000}
+[2026-02-14T19:10:10.301Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] Spawning MCP wrapper (real tool integration)
+[2026-02-14T19:10:10.301Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] HTTP attempt 1/3 | {"accept":"application/json, text/event-stream"}
+[2026-02-14T19:10:10.489Z] [MCP-EXA][RUN:run_1771096210300_543] [WARN] Real MCP call failed, falling back to mock | {"error":"Error: MCP HTTP error 400: {\"jsonrpc\":\"2.0\",\"error\":{\"code\":-32700,\"message\":\"Parse error\",\"data\":\"[\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"code\\\": \\\"invalid_value\\\",\\n          \\\"values\\\": [\\n            \\\"2.0\\\"\\n          ],\\n          \\\"path\\\": [\\n            \\\"jsonrpc\\\"\\n          ],\\n          \\\"message\\\": \\\"Invalid input: expected \\\\\\\"2.0\\\\\\\"\\\"\\n        },\\n        {\\n          \\\"code\\\": \\\"invalid_union\\\",\\n          \\\"errors\\\": [\\n            [\\n              {\\n "}
+[2026-02-14T19:10:10.591Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] Run completed successfully
+[2026-02-14T19:10:10.592Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] TIMER_END: run_mcp_exa (291ms) | {"status":"ok"}
+[2026-02-14T19:10:10.592Z] [MCP-EXA][RUN:run_1771096210300_543] [INFO] MCP-EXA run completed | {"runId":"run_1771096210300_543","status":"ok"}
+[2026-02-14T19:10:39.380Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] Starting MCP-EXA run | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"runId":"run_1771096239380_34"}
+[2026-02-14T19:10:39.381Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:10:39.381Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] Run started | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"timeoutMs":60000}
+[2026-02-14T19:10:39.381Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] Spawning MCP wrapper (real tool integration)
+[2026-02-14T19:10:39.382Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] HTTP attempt 1/3 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:10:40.576Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] Run completed successfully
+[2026-02-14T19:10:40.577Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] TIMER_END: run_mcp_exa (1196ms) | {"status":"ok"}
+[2026-02-14T19:10:40.577Z] [MCP-EXA][RUN:run_1771096239380_34] [INFO] MCP-EXA run completed | {"runId":"run_1771096239380_34","status":"ok"}
+[2026-02-14T19:14:52.184Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] Starting MCP-EXA run | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"runId":"run_1771096492184_33"}
+[2026-02-14T19:14:52.185Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:14:52.185Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] Run started | {"query":"Find latest research on exa AI capabilities","tools":["web_search_exa","get_code_context_exa"],"timeoutMs":60000}
+[2026-02-14T19:14:52.185Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:14:52.185Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:14:52.185Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:14:52.383Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:14:53.455Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [web_search_exa] SSE response (9461 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: Exa AI Introduces Exa Instant: A Sub-200ms Neural Search Engine ...\\nAuthor: Asif Razzaq\\nPublished Date: 2026-02-13T21:14:53.227Z\\nURL: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-s"}
+[2026-02-14T19:14:53.456Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:14:53.456Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] Calling tool: get_code_context_exa
+[2026-02-14T19:14:53.457Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [get_code_context_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"get_code_context_exa"}
+[2026-02-14T19:14:53.599Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [get_code_context_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:14:54.702Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [get_code_context_exa] SSE response (20150 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"## Exa AI Introduces Exa Instant: A Sub-200ms Neural Search Engine ...\\nhttps://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-wor"}
+[2026-02-14T19:14:54.702Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] [get_code_context_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:14:54.703Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] Run completed | {"status":"ok","summary":"Called 2 tool(s): 2 succeeded, 0 failed"}
+[2026-02-14T19:14:54.703Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] TIMER_END: run_mcp_exa (2518ms) | {"status":"ok"}
+[2026-02-14T19:14:54.703Z] [MCP-EXA][RUN:run_1771096492184_33] [INFO] MCP-EXA run completed | {"runId":"run_1771096492184_33","status":"ok"}
+[2026-02-14T19:34:30.910Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] Starting MCP-EXA run | {"query":"William Gibson books","tools":["web_search_exa"],"runId":"run_1771097670910_936"}
+[2026-02-14T19:34:30.911Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:34:30.911Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] Run started | {"query":"William Gibson books","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:34:30.911Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:34:30.911Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:34:30.911Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:34:31.094Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:34:36.241Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] [web_search_exa] SSE response (10563 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: William Gibson bibliography\\nAuthor: Contributors to Wikimedia projects\\nPublished Date: 2025-04-10T00:00:00.000Z\\nURL: https://en.wikipedia.org/wiki/William_Gibson_bibliography\\nText: [Jump to content] \\n\\nFrom Wikipedia, the "}
+[2026-02-14T19:34:36.242Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:34:36.243Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed"}
+[2026-02-14T19:34:36.243Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] TIMER_END: run_mcp_exa (5332ms) | {"status":"ok"}
+[2026-02-14T19:34:36.243Z] [MCP-EXA][RUN:run_1771097670910_936] [INFO] MCP-EXA run completed | {"runId":"run_1771097670910_936","status":"ok"}
+[2026-02-14T19:35:00.015Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] Starting MCP-EXA run | {"query":"William Gibson books","tools":["web_search_exa"],"runId":"run_1771097700015_321"}
+[2026-02-14T19:35:00.016Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:35:00.016Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] Run started | {"query":"William Gibson books","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:35:00.016Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:35:00.017Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:35:00.017Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:35:00.201Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:35:01.403Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] [web_search_exa] SSE response (10509 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: William Gibson bibliography\\nAuthor: Contributors to Wikimedia projects\\nPublished Date: 2025-04-10T00:00:00.000Z\\nURL: https://en.wikipedia.org/wiki/William_Gibson_bibliography\\nText: [Jump to content] \\n\\nFrom Wikipedia, the "}
+[2026-02-14T19:35:01.404Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:35:01.405Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed"}
+[2026-02-14T19:35:01.406Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] TIMER_END: run_mcp_exa (1390ms) | {"status":"ok"}
+[2026-02-14T19:35:01.406Z] [MCP-EXA][RUN:run_1771097700015_321] [INFO] MCP-EXA run completed | {"runId":"run_1771097700015_321","status":"ok"}
+[2026-02-14T19:37:23.161Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] Starting MCP-EXA run | {"query":"William Gibson books","tools":["web_search_exa"],"runId":"run_1771097843161_473"}
+[2026-02-14T19:37:23.162Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:37:23.162Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] Run started | {"query":"William Gibson books","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:37:23.162Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:37:23.162Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:37:23.162Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:37:23.426Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:37:24.568Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] [web_search_exa] SSE response (10509 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: William Gibson bibliography\\nAuthor: Contributors to Wikimedia projects\\nPublished Date: 2025-04-10T00:00:00.000Z\\nURL: https://en.wikipedia.org/wiki/William_Gibson_bibliography\\nText: [Jump to content] \\n\\nFrom Wikipedia, the "}
+[2026-02-14T19:37:24.569Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:37:24.570Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed","hitsFound":1}
+[2026-02-14T19:37:24.570Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] TIMER_END: run_mcp_exa (1408ms) | {"status":"ok"}
+[2026-02-14T19:37:24.570Z] [MCP-EXA][RUN:run_1771097843161_473] [INFO] MCP-EXA run completed | {"runId":"run_1771097843161_473","status":"ok"}
+[2026-02-14T19:37:55.787Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] Starting MCP-EXA run | {"query":"William Gibson books","tools":["web_search_exa"],"runId":"run_1771097875787_289"}
+[2026-02-14T19:37:55.788Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:37:55.789Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] Run started | {"query":"William Gibson books","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:37:55.789Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:37:55.789Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:37:55.789Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:37:55.954Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:37:56.971Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] [web_search_exa] SSE response (10503 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: William Gibson bibliography\\nAuthor: Contributors to Wikimedia projects\\nPublished Date: 2025-04-10T00:00:00.000Z\\nURL: https://en.wikipedia.org/wiki/William_Gibson_bibliography\\nText: [Jump to content] \\n\\nFrom Wikipedia, the "}
+[2026-02-14T19:37:56.972Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:37:56.974Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed","hitsFound":8}
+[2026-02-14T19:37:56.974Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] TIMER_END: run_mcp_exa (1186ms) | {"status":"ok"}
+[2026-02-14T19:37:56.975Z] [MCP-EXA][RUN:run_1771097875787_289] [INFO] MCP-EXA run completed | {"runId":"run_1771097875787_289","status":"ok"}
+[2026-02-14T19:40:35.734Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] Starting MCP-EXA run | {"query":"William Gibson books","tools":["web_search_exa"],"runId":"run_1771098035734_733"}
+[2026-02-14T19:40:35.735Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:40:35.735Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] Run started | {"query":"William Gibson books","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:40:35.735Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:40:35.735Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:40:35.736Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:40:35.907Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:40:36.981Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] [web_search_exa] SSE response (10503 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: William Gibson bibliography\\nAuthor: Contributors to Wikimedia projects\\nPublished Date: 2025-04-10T00:00:00.000Z\\nURL: https://en.wikipedia.org/wiki/William_Gibson_bibliography\\nText: [Jump to content] \\n\\nFrom Wikipedia, the "}
+[2026-02-14T19:40:36.982Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:40:36.984Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed","hitsFound":8}
+[2026-02-14T19:40:36.984Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] TIMER_END: run_mcp_exa (1249ms) | {"status":"ok"}
+[2026-02-14T19:40:36.985Z] [MCP-EXA][RUN:run_1771098035734_733] [INFO] MCP-EXA run completed | {"runId":"run_1771098035734_733","status":"ok"}
+[2026-02-14T19:42:53.951Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] Starting MCP-EXA run | {"query":"notable events in Austin Texas today February 14 2026","tools":["web_search_exa"],"runId":"run_1771098173951_497"}
+[2026-02-14T19:42:53.952Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:42:53.952Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] Run started | {"query":"notable events in Austin Texas today February 14 2026","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:42:53.952Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:42:53.953Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:42:53.953Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:42:54.142Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:42:57.495Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] [web_search_exa] SSE response (10188 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: What to do in Austin on February 14th, 2026 - Do512\\nPublished Date: 2026-02-14T05:42:54.939Z\\nURL: https://do512.com/events/2026/02/14\\nText: What to do in Austin on February 14th, 2026\\n[Other Cities] \\n* [LGBTQ+] \\n* [Do512 "}
+[2026-02-14T19:42:57.496Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:42:57.498Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed","hitsFound":8}
+[2026-02-14T19:42:57.498Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] TIMER_END: run_mcp_exa (3546ms) | {"status":"ok"}
+[2026-02-14T19:42:57.498Z] [MCP-EXA][RUN:run_1771098173951_497] [INFO] MCP-EXA run completed | {"runId":"run_1771098173951_497","status":"ok"}
+[2026-02-14T19:44:22.137Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] Starting MCP-EXA run | {"query":"Do512 events February 14 2026 Austin","tools":["web_search_exa"],"runId":"run_1771098262137_809"}
+[2026-02-14T19:44:22.138Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] TIMER_START: run_mcp_exa
+[2026-02-14T19:44:22.138Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] Run started | {"query":"Do512 events February 14 2026 Austin","tools":["web_search_exa"],"timeoutMs":60000}
+[2026-02-14T19:44:22.138Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] Calling MCP tools (real HTTP, aggressive negotiation)
+[2026-02-14T19:44:22.138Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] Calling tool: web_search_exa
+[2026-02-14T19:44:22.138Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] [web_search_exa] HTTP attempt 1/5 | {"accept":"application/json, text/event-stream","tool":"web_search_exa"}
+[2026-02-14T19:44:22.311Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] [web_search_exa] attempt 1 response | {"status":200,"contentType":"text/event-stream"}
+[2026-02-14T19:44:24.783Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] [web_search_exa] SSE response (8999 bytes) | {"snippet":"event: message\ndata: {\"result\":{\"content\":[{\"type\":\"text\",\"text\":\"Title: What to do in Austin on February 14th, 2026 - Do512\\nPublished Date: 2026-02-14T05:44:23.053Z\\nURL: https://do512.com/events/2026/02/14\\nText: What to do in Austin on February 14th, 2026\\n[Other Cities] \\n* [LGBTQ+] \\n* [Do512 "}
+[2026-02-14T19:44:24.784Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] [web_search_exa] JSON-RPC result received | {"hasResult":true}
+[2026-02-14T19:44:24.786Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] Run completed | {"status":"ok","summary":"Called 1 tool(s): 1 succeeded, 0 failed","hitsFound":8}
+[2026-02-14T19:44:24.787Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] TIMER_END: run_mcp_exa (2649ms) | {"status":"ok"}
+[2026-02-14T19:44:24.787Z] [MCP-EXA][RUN:run_1771098262137_809] [INFO] MCP-EXA run completed | {"runId":"run_1771098262137_809","status":"ok"}
